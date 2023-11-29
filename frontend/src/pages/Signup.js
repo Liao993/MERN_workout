@@ -1,4 +1,6 @@
 import { useState } from "react";
+
+//import component
 import useSignup from "../hooks/useSignup";
 
 const Signup = () => {
