@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 
 //import component
-import useLogout from "../hooks/useLogout";
+import { useLogout } from "../hooks/useLogout";
 import { useAuthContext } from "../hooks/useAuthContext";
 
 const Navbar = () => {
